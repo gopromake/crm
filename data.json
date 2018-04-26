@@ -1,0 +1,54 @@
+[
+    {
+        "id": "w",
+        "description": "Web",
+        "preActionCd": [
+            {
+                "name": "U"
+            },
+            {
+                "name": "A"
+            },
+            {
+                "name": "D"
+            }
+        ],
+        "preActionDesc": [
+            {
+                "name": "CVS.com"
+            },
+            {
+                "name": "Flipp"
+            },
+            {
+                "name": "Email"
+            }
+        ]
+    },
+    {
+        "id": "M",
+        "description": "Mobile",
+        "preActionCd": [
+            {
+                "name": "U"
+            },
+            {
+                "name": "A"
+            },
+            {
+                "name": "D"
+            }
+        ],
+        "preActionDesc": [
+            {
+                "name": "CVS.com"
+            },
+            {
+                "name": "Flipp"
+            },
+            {
+                "name": "Email"
+            }
+        ]
+    }
+]
